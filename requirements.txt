@@ -1,8 +1,9 @@
 streamlit
-tf-nightly
+tensorflow
+keras-tuner
 numpy
 pandas
 pillow
 opencv-python-headless
-keras
-h5py
+scikit-learn
+matplotlib
